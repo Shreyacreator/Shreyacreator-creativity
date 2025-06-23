@@ -1,4 +1,4 @@
 # Shreyacreator-creativity
-This is my first Git Repository.
+This is about a small resin art shop.
 <br>
 Author - Shreyashri
